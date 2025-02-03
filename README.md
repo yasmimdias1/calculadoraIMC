@@ -16,3 +16,5 @@ Layout responsivo
 JavaScript:
 Funções para calcular o IMC
 Manipulação do DOM para atualizar a tela da calculadora
+
+<a href="https://fernandoleonid.github.io/mini-projetos-js/01-lamp/"></a>
