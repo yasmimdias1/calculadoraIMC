@@ -1,4 +1,4 @@
-#Calculadora de IMC em HTML e JavaScript
+# Calculadora de IMC em HTML e JavaScript
 
 Objetivo: Criar uma calculadora de IMC que permita ao usuário calcular seu Índice de Massa Corporal com base em sua altura e peso.
 
