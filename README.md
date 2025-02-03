@@ -17,4 +17,4 @@ JavaScript:
 Funções para calcular o IMC
 Manipulação do DOM para atualizar a tela da calculadora
 
-<a href="https://yasmimdias1.github.io/calculadoraIMC/"><imgn src="calculadoraIMC.png"> </img></a>
+<a href="https://yasmimdias1.github.io/calculadoraIMC/"><imgn src="[calculadoraIMC.png](https://github.com/yasmimdias1/calculadoraIMC/blob/73192bd81355e2ebb79e51fdb15918f13c62f116/calculadoraIMC.png)"> </img></a>
